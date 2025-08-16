@@ -59,7 +59,7 @@
 
 ### 🚀 Featured Projects:
 - [**Medical AI Chatbot**](https://github.com/Deep841/medical-ai-chatbot) – AI-powered chatbot using LangChain, Hugging Face & Pinecone.
-- [**Blood Management System**](https://github.com/Deep841/blood-management-system) – Web-based donor-recipient matching platform.
+- [**AI-Powered Ticket Management System**](https://github.com/Deep841/AI-ticket-system) – AI-driven support system to auto-categorize, prioritize & assign tickets using Gemini API and NLP.
 - [**Talk Lens**](https://github.com/Deep841/Talk-Lens) – Smart glasses for text reading via gesture control.
 
 ---
