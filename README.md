@@ -10,7 +10,7 @@
 ---
 
 - 🔭 I’m currently working on **AI-Powered & Full-Stack Projects**
-- 🌱 Learning **AI, ML, NLP, Cloud Deployments, Advanced Machine Learning & System Design**
+- 🌱 Working and Learning **AI, ML, NLP, Cloud Deployments, Advanced Machine Learning & System Design**
 - 📫 Reach me at **kumardeep2003@gmail.com**
 - 📄 Know more about me: [Portfolio](https://deep841.github.io/myPortofolio/)
 
