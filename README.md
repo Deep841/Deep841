@@ -57,10 +57,4 @@
 
 ---
 
-### ⚡ Fun Fact
-<blockquote align="center">
-  <b>“Turning coffee into code. Exploring tomorrow’s AI, one model at a time.”</b>
-</blockquote>
-
----
 
