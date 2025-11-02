@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Full-stack developer with a focus on AI, Machine Learning, and NLP solutions
+- 🚀 Working in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Data Science, Data Analytics, and Data Visualization.
 - 🌐 Passionate about building smart products for real-world impact
 - ⚡ Open Source advocate & continuous learner
 - 📫 How to reach me: kumardeep2003@gmail.com
