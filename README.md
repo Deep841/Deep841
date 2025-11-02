@@ -41,10 +41,26 @@
 
 ---
 
-### 🚀 Featured Projects
-- [Medical AI Chatbot](https://github.com/Deep841/medical-ai-chatbot): LLM-powered healthcare bot using LangChain & Pinecone
-- [AI Ticket Management](https://github.com/Deep841/AI-ticket-system): Intelligent ticket workflow automation (Gemini API, NLP)
-- [Talk Lens](https://github.com/Deep841/Talk-Lens): Wearable smart glasses for text-to-speech via hand gestures
+### ### 🚀 Projects
+
+#### [End-to-End Medical AI Chatbot](https://github.com/Deep841/medical-ai-chatbot) 
+*Python, LangChain, HuggingFace, Pinecone, Flask*
+- AI chatbot to answer medical queries from a custom knowledge base.
+- Used Sentence-Transformers + Pinecone for semantic search.
+- Built a modular Flask backend enabling real-time LLM-powered responses.
+
+#### [E-commerce Sales Analytics Dashboard](https://github.com/Deep841/ecommerce-sales-analytics) 
+*Power BI, MySQL, DAX*
+- Designed an interactive BI dashboard analyzing sales by category, region, and customer segment.
+- Cleaned and transformed data in Power Query; used DAX to create dynamic KPIs.
+- Delivered insights on revenue, profit trends, and customer behavior.
+
+#### [NLP Text Summarization with MLOps](https://github.com/Deep841/NLP_Text_Summarization_with_MLOps) 
+*Python, Transformers, HuggingFace, Flask*
+- Developed an end-to-end NLP pipeline for text summarization using HuggingFace Transformers.
+- Implemented modular ML components: data ingestion, validation, transformation, and model training.
+- Developed a FastAPI-based prediction pipeline for real-time text summarization using the fine-tuned Pegasus model from Hugging Face.
+
 
 ---
 
