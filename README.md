@@ -1,7 +1,7 @@
 <!-- Modern & Minimalist GitHub Profile README for Deep -->
 
 <h1 align="center">Hey 👋 I'm Deep</h1>
-<h4 align="center">AI Innovator • ML Researcher • Cloud Enthusiast • Code Architect</h4>
+<h4 align="center">AI Innovator • ML Researcher • Data Science Enthusiast • Code Architect</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ritik307/ritik307/master/images/banner.gif" width="80%" />
@@ -24,43 +24,41 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,redux,nextjs,mysql,mongodb,aws,vercel,pandas,numpy,latex,git,github,figma,tensorflow,pytorch" height="32" />
-</p>
+### 🧰 Technical Skills
+
+**Programming Languages:**  
+C++, Python, SQL
+
+**Development Tools & Platforms:**  
+VS Code, Jupyter Notebook, Git, GitHub, MySQL Workbench
+
+**Data Handling & Visualization:**  
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
+
+**Machine Learning & NLP:**  
+Scikit-learn, Random Forest, Transformers, Sentence-Transformers, HuggingFace, LangChain
 
 ---
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/deep-332437315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Deep841" target="_blank"><img src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
-  <a href="mailto:kumardeep2003@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail"></a>
-  <a href="https://deep841.github.io/myPortofolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-green?logo=firefox-browser"></a>
-</p>
+### 🚀 Projects
 
----
+#### [End-to-End Medical AI Chatbot](https://github.com/Deep841/medical-ai-chatbot)  
+*Python, LangChain, HuggingFace, Pinecone, Flask*  
+• AI chatbot to answer medical queries from a custom knowledge base.  
+• Used Sentence-Transformers + Pinecone for semantic search.  
+• Built a modular Flask backend enabling real-time LLM-powered responses.
 
-### ### 🚀 Projects
+#### [E-commerce Sales Analytics Dashboard](https://github.com/Deep841/ecommerce-sales-analytics)  
+*Power BI, MySQL, DAX*  
+• Designed an interactive BI dashboard analyzing sales by category, region, and customer segment.  
+• Cleaned and transformed data in Power Query; used DAX to create dynamic KPIs.  
+• Delivered insights on revenue, profit trends, and customer behavior.
 
-#### [End-to-End Medical AI Chatbot](https://github.com/Deep841/medical-ai-chatbot) 
-*Python, LangChain, HuggingFace, Pinecone, Flask*
-- AI chatbot to answer medical queries from a custom knowledge base.
-- Used Sentence-Transformers + Pinecone for semantic search.
-- Built a modular Flask backend enabling real-time LLM-powered responses.
-
-#### [E-commerce Sales Analytics Dashboard](https://github.com/Deep841/ecommerce-sales-analytics) 
-*Power BI, MySQL, DAX*
-- Designed an interactive BI dashboard analyzing sales by category, region, and customer segment.
-- Cleaned and transformed data in Power Query; used DAX to create dynamic KPIs.
-- Delivered insights on revenue, profit trends, and customer behavior.
-
-#### [NLP Text Summarization with MLOps](https://github.com/Deep841/NLP_Text_Summarization_with_MLOps) 
-*Python, Transformers, HuggingFace, Flask*
-- Developed an end-to-end NLP pipeline for text summarization using HuggingFace Transformers.
-- Implemented modular ML components: data ingestion, validation, transformation, and model training.
-- Developed a FastAPI-based prediction pipeline for real-time text summarization using the fine-tuned Pegasus model from Hugging Face.
-
+#### [NLP Text Summarization with MLOps](https://github.com/Deep841/NLP_Text_Summarization_with_MLOps)  
+*Python, Transformers, HuggingFace, Flask*  
+• Developed an end-to-end NLP pipeline for text summarization using HuggingFace Transformers.  
+• Implemented modular ML components: data ingestion, validation, transformation, and model training.  
+• Developed a FastAPI-based prediction pipeline for real-time text summarization using the fine-tuned Pegasus model from Hugging Face.
 
 ---
 
@@ -70,7 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep841&layout=compact&theme=gruvbox" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api?username=deep841&show_icons=true&theme=gruvbox" height="140"/>
 </div>
-
----
-
-
